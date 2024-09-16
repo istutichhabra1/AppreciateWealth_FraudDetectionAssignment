@@ -22,8 +22,8 @@ This repository is part of a machine learning project that predicts fraudulent t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/fraud-detection-api.git
-cd fraud-detection-api
+[git clone https://github.com/your-username/fraud-detection-api.git
+cd fraud-detection-api](https://github.com/istutichhabra1/AppreciateWealth_FraudDetectionAssignment.git)
 ```
 
 ### 2. Install dependencies
